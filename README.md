@@ -1,4 +1,4 @@
-# Good Vacation Agency - JDBC
+# Good Vacation Agency - JSP e Servlet
 
 Repositório criado para manter o projeto Java Web com JSP e Servlets da Good Vacation Agency, referente à entrega prática do módulo 04 do programa Recode Pro 2023.
 
